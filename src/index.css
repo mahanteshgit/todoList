@@ -1,0 +1,12 @@
+body{
+    padding: 50px;
+    background-color: #DEBB99;
+    font-family: fantasy;
+}
+
+#container{
+    display: flex;
+    justify-content: flex;
+    left: 40%;
+    position: fixed;
+}
